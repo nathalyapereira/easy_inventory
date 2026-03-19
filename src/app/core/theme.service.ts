@@ -1,5 +1,5 @@
-import { Injectable, signal, computed, effect, inject } from '@angular/core';
-import { DOCUMENT } from '@angular/common';
+import { Injectable, signal, computed, effect, inject, DOCUMENT } from '@angular/core';
+
 
 export type ThemeId = 'indigo-deep' | 'rose-gold';
 
